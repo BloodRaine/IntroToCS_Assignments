@@ -18,9 +18,16 @@ Here, ANA occurs twice in BANANA. Hence, Kevin will get 2 Points.
 
 For better understanding, see the image below: 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/BloodRaine/IntroToCS_Assignments/blob/master/1450330231-04db904008-banana.png)
 
 Your task is to determine the winner of the game and their score.
+
+# To Begin
+When the program is run it must generate a randomized string (**ALL CAPS**) and print it out to the user as follows
+```
+INPUT> The random string that will be analysed is : (random string goes here)
+```
+It will then run through the Minion Game
 
 # Output Format
 Print one line: the name of the winner and their score separated by a space.
@@ -28,7 +35,8 @@ If the game is a draw, print Draw.
 
 # Sample Output
 ```
-OUTPUT> Stuart 12
+INPUT> The random string that will be analyses is : BANANA
+OUTPUT> The winner is: Stuart, with a score of: 12
 ```
 
 **Note : Vowels are only defined as *"AEIOU"*. In this problem, *Y* is not considered a vowel.**
