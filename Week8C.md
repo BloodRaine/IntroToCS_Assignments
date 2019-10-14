@@ -18,7 +18,7 @@ Here, ANA occurs twice in BANANA. Hence, Kevin will get 2 Points.
 
 For better understanding, see the image below: 
 
-![alt text](https://github.com/BloodRaine/IntroToCS_Assignments/blob/master/Untitled\ drawing.png)
+![alt text](https://github.com/BloodRaine/IntroToCS_Assignments/blob/master/figure.png)
 
 Your task is to determine the winner of the game and their score.
 
@@ -27,7 +27,7 @@ When the program is run it must generate a randomized string (**ALL CAPS**) and 
 ```
 INPUT> The random string that will be analysed is : (random string goes here)
 ```
-It will then run through the Minion Game
+It will then run through the Vowels or Not? Game
 
 # Output Format
 Print one line: the name of the winner and their score separated by a space.
