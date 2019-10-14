@@ -18,7 +18,7 @@ Here, ANA occurs twice in BANANA. Hence, Kevin will get 2 Points.
 
 For better understanding, see the image below: 
 
-![alt text](https://github.com/BloodRaine/IntroToCS_Assignments/blob/master/1450330231-04db904008-banana.png)
+![alt text](https://github.com/BloodRaine/IntroToCS_Assignments/blob/master/Untitled drawing.png)
 
 Your task is to determine the winner of the game and their score.
 
