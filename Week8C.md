@@ -1,11 +1,11 @@
-# The Minion Game
+# Vowels or Not?
 
-Kevin and Stuart want to play the 'The Minion Game'.
+Kevin and Stacy want to play the 'Vowels or Not?'.
 
 # Game Rules
 - Both players are given the same string, *S*.
 - Both players have to make substrings using the letters of the string *S*.
-- Stuart has to make words starting with consonants.
+- Stacy has to make words starting with consonants.
 - Kevin has to make words starting with vowels.
 - The game ends when both players have made all possible substrings.
 
@@ -36,7 +36,7 @@ If the game is a draw, print Draw.
 # Sample Output
 ```
 INPUT> The random string that will be analyses is : BANANA
-OUTPUT> The winner is: Stuart, with a score of: 12
+OUTPUT> The winner is: Stacy, with a score of: 12
 ```
 
 **Note : Vowels are only defined as *"AEIOU"*. In this problem, *Y* is not considered a vowel.**
